@@ -1,7 +1,7 @@
 # Kubernetes blue green deployments
 
 This repository holds a bash script that allows you to perform blue/green deployments on a Kubernetes cluster.
-See also the respective [blog post](https://codefresh.io/kubernetes-tutorial/fully-automated-blue-green-deployments-kubernetes-codefresh/)
+See also the respective [blog post](https://codefresh.io/kubernetes-tutorial/fully-automated-blue-green-deployments-kubernetes-codefresh/).
 
 ## Description
 
